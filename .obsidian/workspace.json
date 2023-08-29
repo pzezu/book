@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c30a08b168755f8b",
+        "id": "8f1f129294cffada",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0a15349ac62f97",
+            "id": "e364ff5d6219c724",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca0a15349ac62f97",
+  "active": "e364ff5d6219c724",
   "lastOpenFiles": [
+    "python_auto_documentation",
     "books/cloudcode.ipynb",
     "books/librarys/requests.ipynb"
   ]
